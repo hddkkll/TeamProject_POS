@@ -8,7 +8,6 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Scanner;
 
-
 import kr.or.bit.team1.util.TeamDate;
 import kr.or.bit.team1.util.TeamFiles;
 import kr.or.bit.team1.util.TeamFormat;
@@ -21,9 +20,6 @@ enum OrderStatus {
 enum PayType {
 	CASH, CARD
 };
-
-
-
 
 class Pos implements Serializable {
 
